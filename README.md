@@ -3,7 +3,7 @@
     <img src="http://materializecss.com/res/materialize.svg" width="150">
   </a>
 
-  <h3 align="center">MaterializeCSS</h3>
+  <h3 align="center">MaterializeCSS based website for Akaal</h3>
 
   <p align="center">
     Materialize, a CSS Framework based on material design.
